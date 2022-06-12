@@ -1,8 +1,8 @@
 ## <ins>*Today's Key-learning Points :-*</ins>
-    - Printing 
-    - Commenting 
-    - String Manupulation
-    - Variables
+    -Printing 
+    -Commenting 
+    -String Manupulation
+    -Variables
 
 
 
