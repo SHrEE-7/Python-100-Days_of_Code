@@ -3,6 +3,6 @@
 
 - For Loops
 - Range Function 
-- Code Blocks
+- Code Block
 
 ### You can checkout my repl, click [here](https://replit.com/@SHrEE010/Day-5#main.py)
