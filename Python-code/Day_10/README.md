@@ -20,5 +20,5 @@
               | | . | 0 | = | | / | |
               | |___|___|___| |___| |
               |_____________________|
-```              
+```         
 ### You can checkout my repl, click [here](https://replit.com/@SHrEE010/Day-10#main.py)
