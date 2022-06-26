@@ -12,3 +12,5 @@ This repository is a collection of useful Python Projects, Python programming co
 | **3**   | [<ul><li>Conditional Statements</li><li>logical Operators</li><li>Code Blocks and Scope</li></ul>](/Python-code/Day-3/)         |
 | **4**   | [<ul><li>Randomisation</li><li>Python Lists</li></ul>](/Python-code/Day-4/)                                                     |
 | **5**   | [<ul><li>For Loops</li><li>Range Function</li><li>Code Block</li></ul>](/Python-code/Day-5/)                                    |
+| **8**   | [<ul><li>Functions with Input</li></ul>](/Python-code/Day-8/)                                                                   |
+| **9**   | [<ul><li>Dictionary</li><li>Nesting concept</li></ul>](/Python-code/Day-9/)                                                     |
