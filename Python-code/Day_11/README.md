@@ -1,6 +1,6 @@
 # Project of the day :-
 ## <center>**Blackjack Capstone**</center>
-### To complete Blackjack Capstone project I, need to apply everything learnt so far..!
+### To complete Blackjack Capstone project, I need to apply everything learnt so far..!
 
 ```
     88          88                       88        88                       88         
