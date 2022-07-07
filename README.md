@@ -14,6 +14,8 @@ This repository is a collection of useful Python Projects, Python programming co
 | **5**   | [<ul><li>For Loops</li><li>Range Function</li><li>Code Block</li></ul>](/Python-code/Day_5/)                                                 |
 | **8**   | [<ul><li>Functions with Input</li></ul>](/Python-code/Day_8/)                                                                                |
 | **9**   | [<ul><li>Dictionary</li><li>Nesting concept</li></ul>](/Python-code/Day_9/)                                                                  |
-| **10**  | [<ul><li>Functions with output</li><li>Calculator program</li></ul>](/Python-code/Day_10/)                                                  |
+| **10**  | [<ul><li>Functions with output</li><li>Calculator program</li></ul>](/Python-code/Day_10/)                                                   |
 | **11**  | [<ul><li>Blackjack Capstone Project</li></ul>](/Python-code/Day_11/)                                                                         |
 | **12**  | [<ul><li>Namespaces Global vs Local scope</li><li>Modification of Global scope</li><li>Number Guessing Game</li></ul>](/Python-code/Day_12/) |
+| **13**  | [<ul><li>Code Debugging</li></ul>](/Python-code/Day_13/)                                                                                     |
+| **14**  | [<ul><li>Higher Lower Project</li><ul>](/Python-code/Day_14/)                                                                                |
