@@ -1,5 +1,5 @@
 ## #100Days_Of_PYTHON
-This repository is a collection of useful Python Projects, Python programming concepts and Python related things.
+## This repository is a collection of useful Python Projects, Python programming concepts and Python related things.
 
 | **Day** | **Concepts of the Day**                                                                                                                      |
 | ------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
