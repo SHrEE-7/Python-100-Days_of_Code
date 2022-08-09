@@ -15,3 +15,4 @@
 | **12**  | [<ul><li>Namespaces Global vs Local scope</li><li>Modification of Global scope</li><li>Number Guessing Game</li></ul>](/Python-code/Day_12/) |
 | **13**  | [<ul><li>Code Debugging</li></ul>](/Python-code/Day_13/)                                                                                     |
 | **14**  | [<ul><li>Higher Lower Project</li><ul>](/Python-code/Day_14/)                                                                                |
+| **15**  | [<ul><li>Coffee Machine Project</li><ul>](/Python-code/Day_15/)                                                                              |
