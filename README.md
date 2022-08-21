@@ -19,3 +19,5 @@
 |**17**| [<ul><li>Quiz Game Project</li><ul>](/Python-code/Day_17/) |
 |**18**| [<ul><li>Turtle and the Graphical User Interface</li><ul>](/Python-code/Day_18/)|
 |**19**| [<ul><li>Intances, state and higher order functions</li><ul>](/Python-code/Day_19/)|
+|**20**| [<ul><li>Snake Game Project</li><ul>](/Python-code/Day_20/)|
+
