@@ -16,8 +16,9 @@
 | **13**  | [<ul><li>Code Debugging</li></ul>](/Python-code/Day_13/)                                                                                     |
 | **14**  | [<ul><li>Higher Lower Project</li><ul>](/Python-code/Day_14/)                                                                                |
 | **15**  | [<ul><li>Coffee Machine Project</li><ul>](/Python-code/Day_15/)                                                                              |
-|**17**| [<ul><li>Quiz Game Project</li><ul>](/Python-code/Day_17/) |
-|**18**| [<ul><li>Turtle and the Graphical User Interface</li><ul>](/Python-code/Day_18/)|
-|**19**| [<ul><li>Intances, state and higher order functions</li><ul>](/Python-code/Day_19/)|
-|**20**| [<ul><li>Snake Game Project</li><ul>](/Python-code/Day_20/)|
+| **17**  | [<ul><li>Quiz Game Project</li><ul>](/Python-code/Day_17/)                                                                                   |
+| **18**  | [<ul><li>Turtle and the Graphical User Interface</li><ul>](/Python-code/Day_18/)                                                             |
+| **19**  | [<ul><li>Intances, state and higher order functions</li><ul>](/Python-code/Day_19/)                                                          |
+| **20**  | [<ul><li>Snake Game Project</li><ul>](/Python-code/Day_20/)                                                                                  |
+| **23**  | [<ul><li>The Turtle Crossing Capstone Project</li><ul>](/Python-code/Day_23/)                                                                |
 
