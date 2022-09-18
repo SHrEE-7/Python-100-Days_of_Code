@@ -21,4 +21,5 @@
 | **19**  | [<ul><li>Intances, state and higher order functions</li><ul>](/Python-code/Day_19/)                                                          |
 | **20**  | [<ul><li>Snake Game Project</li><ul>](/Python-code/Day_20/)                                                                                  |
 | **23**  | [<ul><li>The Turtle Crossing Capstone Project</li><ul>](/Python-code/Day_23/)                                                                |
+|**24**| [<ul><li>Files, Derectories and Paths</li><ul>](/Python-code/Day_24/)|
 
