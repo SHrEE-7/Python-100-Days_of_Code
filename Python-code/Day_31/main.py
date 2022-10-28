@@ -1,3 +1,4 @@
+from audioop import cross
 from tkinter import *
 from turtle import position 
 
@@ -11,8 +12,17 @@ window.config(padx=50, pady=50, bg=BACKGROUND_COLOR)
 canvas = Canvas(width=800,height=529)
 card_front_img = PhotoImage(file="Images/front.png")
 canvas.create_image(480,263,image=card_front_img)
+canvas.create_text(400,150,text="Title",font=("Ariel",40,"italic"))
 canvas.config(bg=BACKGROUND_COLOR,highlightthickness=0)
-canvas.grid(row=0,column=0)
+canvas.grid(row=0,column=0, columnspan=2)
+
+cross_image = PhotoImage(file="Images/wrong.jpg")
+unknown_button = Button(image=cross_image, highlightthickness=0)
+unknown_button.grid(row=1,column=0)
+
+check_image = PhotoImage(file="Images/right.png")
+unknown_button = Button(image=check_image, highlightthickness=0)
+unknown_button.grid(row=1,column=1)
 
 
-window.mainloop() 
+window.mainloop()  
