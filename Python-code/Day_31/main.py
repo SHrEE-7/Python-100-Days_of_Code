@@ -16,7 +16,7 @@ canvas.create_text(400,150,text="Title",font=("Ariel",40,"italic"))
 canvas.config(bg=BACKGROUND_COLOR,highlightthickness=0)
 canvas.grid(row=0,column=0, columnspan=2)
 
-cross_image = PhotoImage(file="Images/wrong.jpg")
+cross_image = PhotoImage(file="Images/wrong.png")
 unknown_button = Button(image=cross_image, highlightthickness=0)
 unknown_button.grid(row=1,column=0)
 
