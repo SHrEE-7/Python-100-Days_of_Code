@@ -24,5 +24,4 @@ check_image = PhotoImage(file="Images/right.png")
 unknown_button = Button(image=check_image, highlightthickness=0)
 unknown_button.grid(row=1,column=1)
 
-
 window.mainloop()  
