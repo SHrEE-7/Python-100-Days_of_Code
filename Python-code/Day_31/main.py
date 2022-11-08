@@ -1,6 +1,13 @@
+from asyncore import read
 from audioop import cross
 from tkinter import *
 from turtle import position 
+import pandas
+import random
+
+data = pandas.read_csv("Data/English_Marathi.csv") 
+to_learn=data.to_dict(orient="records")
+
 
 BACKGROUND_COLOR = "#B1DDC6"
 
