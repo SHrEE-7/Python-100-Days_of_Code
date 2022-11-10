@@ -1,6 +1,3 @@
-from asyncore import read
-from audioop import cross
-from cgitb import text
 from tkinter import *
 from turtle import position 
 import pandas
