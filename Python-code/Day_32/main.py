@@ -1,15 +1,8 @@
-import smtplib
-from ssl import _PasswordType
+from datetime import datetime 
+import pandas 
+#2 check if today matches a birthday in the birthday.csv
+today = datetime.now()
+today_tuple = (today.month, today.day)
 
-my_email = "shree@gmail.com"
-password = "llihcorv"
-with smtplib.SMTP("smtp.gmail.com") as connection:
-    connection.starttls()
-    connection.login(user=my_email, password=password)
-    connection.sendmail(
-        from_addr=my_email,
-        to_addrs="newuser@gmail.com",
-        msg="Subject:Hello\n\nThis is body of mail..!!"
-    )
-
-
+#3 use pandas to read csv
+data = pandas.read_csv("birthday.csv")
